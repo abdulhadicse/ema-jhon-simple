@@ -1,0 +1,15 @@
+.cart_header, .cart_total {
+    text-align: center;
+}
+
+.cart_total h3{
+    color: darkgoldenrod;
+    text-align: left;
+}
+
+.cart_total button{
+    padding: 5px 20px;
+    background-color:gold;
+    border: 1px solid goldenrod;
+    border-radius: 3px;
+}
